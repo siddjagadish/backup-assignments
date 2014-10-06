@@ -1,4 +1,3 @@
-stats206
+Assignments_Backup
 ========
-
-This is a repository to backup homework for Stats 206: Applied Multivariate Analysis
+This is a repository to backup homework for various courses
